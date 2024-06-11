@@ -20,7 +20,7 @@ public class Calculator {
 	{
 		if(b==0)
 		{
-			throw new IllegalArgumentException("Divisor cannot be zero");
+			throw new IllegalArgumentException("Divisor cannot be zero1");
 		}
 		return a/b;
 	}
